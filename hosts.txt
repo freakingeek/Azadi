@@ -1,0 +1,72 @@
+!
+! Title: Azadi DNS Filter
+! Description: Blocks Persian ads, trackers, annoyances, and censorship-related domains at the DNS level
+! Version: 1.0.0
+! License: MIT
+! Last modified: 2026-09-05T11:35:35+03:30
+!
+! Converted to AdGuard DNS filtering syntax
+!
+||adverge.ir^
+||yektanet.com^
+||mediaad.org^
+||popupdl.ir^
+||kaprila.com^
+||sabavision.com^
+||tavoos.net^
+||chavosh.org^
+||adtrace.io^
+||pushe.co^
+||sanjagh.com^
+||najva.com^
+||utop.ir^
+||vatanclick.ir^
+||sorenad.com^
+||on-click.ir^
+||onclick.ir^
+||yelloadwise.ir^
+||ylad.ir^
+||adexo.ir^
+||adexofiles.ir^
+||ads.karzar.net^
+||pelikan-network.ir^
+||binoads.ir^
+||yektabanner.com^
+||arvanvads.ir^
+||dsp.aparat.com^
+||adengine.telewebion.com^
+||a-banners.divarcdn.com^
+||adsc.beytoote.com^
+||biz-cdn.varzesh3.com^
+||biz.varzesh3.com^
+||ovrjkuavda.com^
+||jtoaxlbas.com^
+||metrix.ir^
+||intrack.ir^
+||usermap.net^
+||analyticsdaily.ir^
+||kntr.ir^
+||affilio.ir^
+||aflo.ir^
+||sentry.sabaidea.cloud^
+||bl9.ir^
+||analyt.ir^
+||tracker.digikala.com^
+||new-sentry.digikala.com^
+||sentry01.theforge.ir^
+||analytics.zoomit.ir^
+||analytics.qalam.group^
+||hadeseh.telewebion.com^
+||sentry.alaatv.com^
+||sentry.divar.cloud^
+||candidatelogapi.jobvision.ir^
+||sentry.mci.dev^
+||analytics.football360.ir^
+||analytics.bertina.ir^
+||sentry.bale.sh^
+||log.ahlolbait.com^
+||matomo.parto.media^
+||logo.samandehi.ir^
+||trustseal.e-rasaneh.ir^
+||trustseal.enamad.ir^
+||doostihaa.com^
